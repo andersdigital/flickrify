@@ -1,0 +1,11 @@
+{
+  "name": "flickrapi",
+  "version": "1.0.0",
+  "description": "Flickr API implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Owain Williams",
+  "license": "ISC"
+}
